@@ -1,7 +1,9 @@
-发现了一个xss漏洞，用户浏览器任意代码执行
+find a xss vulerability, causing arbitrary code execution in user browser
 
+the vulerability point:
 ![](./01.png)
 
+vulerability verification:
 ![](./02.png)
 
 ![](./03.png)
