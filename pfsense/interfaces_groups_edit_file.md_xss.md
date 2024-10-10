@@ -1,6 +1,7 @@
 find a xss vulerability, causing arbitrary code execution in user browser
 
 the vulerability point:
+
 ![](./02.png)
 
 
