@@ -1,14 +1,12 @@
 find a xss vulerability, causing arbitrary code execution in user browser
 
 the vulerability point:
-![](./01.png)
-
+![](./02.png)
 
 
 
 vulerability verification:
 
-![](./02.png)
 
 ![](./03.png)
 
